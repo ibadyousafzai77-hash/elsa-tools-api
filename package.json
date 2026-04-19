@@ -1,4 +1,11 @@
 {
+  "name": "elsa-tools-api",
+  "version": "1.0.0",
+  "description": "Elsa Bot Tools - FB, YT, Unlimited RemBG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.2",
@@ -6,6 +13,7 @@
     "qrcode-terminal": "^0.12.0",
     "fb-downloader-scrapper": "^1.0.1",
     "@distube/ytdl-core": "^4.13.5",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "@imgly/background-removal-node": "^1.4.5"
   }
 }
