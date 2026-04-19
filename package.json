@@ -1,17 +1,11 @@
 {
-  "name": "elsa-tools-api",
-  "version": "1.0.0",
-  "description": "API for Elsa Bot Tools (YT, FB, RemBG)",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.2",
-    "cors": "^2.8.5",
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
     "fb-downloader-scrapper": "^1.0.1",
     "@distube/ytdl-core": "^4.13.5",
-    "form-data": "^4.0.0"
+    "cors": "^2.8.5"
   }
 }
