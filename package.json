@@ -11,6 +11,7 @@
     "axios": "^1.6.2",
     "cors": "^2.8.5",
     "fb-downloader-scrapper": "^1.0.1",
-    "@distube/ytdl-core": "^4.13.5"
+    "@distube/ytdl-core": "^4.13.5",
+    "form-data": "^4.0.0"
   }
 }
